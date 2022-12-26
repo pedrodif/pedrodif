@@ -6,6 +6,8 @@
 
 I’m a Full-stack developer that loves everything about coding. I currently work as a Front-end ReactTs developer at Orbit by Seidor Brasil.  
 
+Grateful for coming this far! 
+
 ## My Skills
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40" style="max-width:100%;"></img>
