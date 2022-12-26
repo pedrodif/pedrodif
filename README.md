@@ -4,7 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Ferreira-3333cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-fer/)](https://www.linkedin.com/in/pedro-fer/)
 
-I’m a Full-stack developer that loves everything about coding. I currently work as a Front-end ReactTs developer at Orbit by Seidor Brasil.  
+I’m a Full-stack developer that loves everything about coding. I currently work as a Front-end ReactJs developer at Orbit by Seidor Brasil.  
 
 Grateful for coming this far! 
 
