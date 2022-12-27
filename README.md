@@ -15,7 +15,7 @@ Grateful for coming this far!
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Html" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="Css" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Scss" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" width="80" height="80" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" style="max-width:100%;"></img>
 
 
