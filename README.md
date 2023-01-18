@@ -6,7 +6,7 @@
 
 Currently working as a Front-end ReactJs developer at Orbit by Seidor Brasil, I love everything about coding!
 
-Grateful for coming this far, I'm eager to go further!
+Grateful for coming this far and eager to go further!
 
 ## My Skills
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40" style="max-width:100%;"></img>
