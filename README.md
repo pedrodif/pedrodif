@@ -4,7 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Ferreira-3333cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-fer/)](https://www.linkedin.com/in/pedro-fer/)
 
-Currently working as a Front-end ReactJs developer at Orbit by Seidor Brasil, I love everything about coding!
+Currently working as a Front-end ReactJs developer at Orbit by Seidor Brasil, gotta say that  I love coding!
 
 Grateful for coming this far and eager to go further!
 
