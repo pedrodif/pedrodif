@@ -22,6 +22,6 @@ Grateful for coming this far and eager to go further!
 
 <div width="100%">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=pedrodif&theme=dark&hide_border=true&background=000000&fire=7E3ACE&ring=7E3ACE&currStreakLabel=FFFFFF)](https://git.io/streak-stats" width="49.75%"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crissims&layout=compact&langs_count=10&theme=dark" width="49.75%"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodif&layout=compact&langs_count=10&theme=dark" width="49.75%"/>
 </div>
 
