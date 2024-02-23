@@ -1,6 +1,6 @@
-<img align="right" src="https://user-images.githubusercontent.com/83607190/175963658-b10f9578-135a-4216-8888-680ce0a6a332.png" width="300"/>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-### Hello, I'm Pedro Ferreira 👋
+## 🖖 Hello, <strong>I'm Pedro Fereira!</strong>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Ferreira-3333cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-fer/)](https://www.linkedin.com/in/pedro-fer/)
 
