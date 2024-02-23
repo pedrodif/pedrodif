@@ -11,7 +11,7 @@
 ## 💻 My Skills
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass,ts,vscode,figma,git,styledcomponents,nodejs,notion,yarn,replit" />
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,nodejs,react,styledcomponents,sass,tailwind,git,yarn,replit,figma,notion" />
   </a>
 
 ## 📊 Statistics
