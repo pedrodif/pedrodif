@@ -4,9 +4,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Ferreira-3333cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-fer/)](https://www.linkedin.com/in/pedro-fer/)
 
-- 💻 Exploring new technologies and developing software solutions. Currently working as a Front-end ReactJs developer at Orbit by Seidor Brasil.
-
-Grateful for coming this far and eager to go further!
+ 💻 Exploring new technologies and developing software solutions. 
+ 💼 Currently working as a Front-end ReactJs developer at Orbit by Seidor Brasil.
+ 🎓 Grateful for coming this far and eager to go further!
 
 ## 🚀 My Skills
 
@@ -19,7 +19,7 @@ Grateful for coming this far and eager to go further!
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" style="max-width:100%;"></img>
 
 
-### 📊 Statistics
+## 📊 Statistics
 
 <div width="100%">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=pedrodif&theme=dark&hide_border=true&background=000000&fire=7E3ACE&ring=7E3ACE&currStreakLabel=FFFFFF)](https://git.io/streak-stats" width="49.75%"/>
