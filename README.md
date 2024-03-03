@@ -12,7 +12,7 @@ Software Engineering student exploring new technologies and developing solutions
 ## 💻 My Skills
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,styledcomponents,sass,tailwind,git,yarn,replit,vscode,figma,notion" />
+    <img src="https://skillicons.dev/icons?i=html,css,c,js,ts,nodejs,react,styledcomponents,sass,tailwind,git,yarn,replit,vscode,figma" />
   </a>
 
 ## 📊 Statistics
