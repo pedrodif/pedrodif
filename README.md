@@ -12,7 +12,7 @@ Software Engineering student at PUC Minas, exploring new technologies and develo
 ## 💻 My Skills
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,c,js,jquery,ts,nodejs,react,styledcomponents,sass,tailwind,bootstrap,git,yarn,replit,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,c,js,ts,jquery,nodejs,react,styledcomponents,sass,tailwind,bootstrap,git,yarn,replit,vscode" />
   </a>
 
 ## 📊 Statistics
