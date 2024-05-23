@@ -7,7 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Ferreira-3333cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-fer/)](https://www.linkedin.com/in/pedro-fer/)
 ### 🚀 Grateful for coming this far and eager to go further! 
 
-Software Engineering student at PUC Minas, exploring new technologies and developing solutions. Currently working as a Front-end ReactJs developer at Orbit by Seidor Brasil.
+Exploring new technologies and developing solutions. Software Engineering student at PUC Minas.
  
 ## 💻 My Skills
 
