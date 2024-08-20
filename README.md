@@ -1,6 +1,6 @@
 
-
-# 🖖 Hello, <strong>I'm Pedro Fereira!</strong>
+# <strong>🖖 Hello </strong>
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=I'mPedroFereira!!&fontAlign=80&fontAlignY=40&color=gradient)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="250px" max-width="250px" width="250px" align="right">
 
@@ -22,4 +22,3 @@ Exploring new technologies and developing solutions. Software Engineering studen
     <img src="http://github-readme-streak-stats.herokuapp.com?user=pedrodif&theme=dark&hide_border=true&background=000000&fire=7E3ACE&ring=7E3ACE&currStreakLabel=FFFFFF)](https://git.io/streak-stats" width="49.75%"/>
 </div>
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=gradient)
