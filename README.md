@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=🖖Hello%20I'm%20Pedro%20Ferreira!&fontSize=40&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="250px" max-width="250px" width="250px" align="right">
 
-Exploring new technologies and developing effective solutions as a Software Engineering student at PUC Minas.
+**Enthusiastic about exploring new technologies and developing innovative solutions.** As a Software Engineering student at PUC Minas, I am deeply engaged in understanding the latest advancements in software development and applying this knowledge to create impactful solutions. My academic journey equips me with a strong foundation in software engineering principles, while my hands-on experience allows me to tackle real-world challenges and contribute to cutting-edge projects. I am committed to continuous learning and growth in the field, striving to stay at the forefront of technology and deliver high-quality, effective solutions.
 
 ## 💻 My Skills
 
