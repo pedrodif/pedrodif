@@ -1,6 +1,6 @@
 
 # <strong>🖖 Hello </strong>
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=I'mPedroFereira!!&fontAlign=80&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=${`I'm Pedro Fereira!`}!&fontAlign=65&fontAlignY=40&color=gradient)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="250px" max-width="250px" width="250px" align="right">
 
