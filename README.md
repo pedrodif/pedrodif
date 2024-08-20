@@ -1,6 +1,6 @@
 
 # <strong>🖖 Hello </strong>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=teste&fontSize=70&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20I'm%20Pedro%20Ferreira!&fontSize=70&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="250px" max-width="250px" width="250px" align="right">
 
