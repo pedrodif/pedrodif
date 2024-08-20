@@ -6,8 +6,7 @@
 Enthusiastic about exploring new technologies and developing innovative solutions. As a Software Engineering student at PUC Minas, I am deeply engaged in understanding the latest advancements in software development and applying this knowledge to create impactful solutions. My academic journey equips me with a strong foundation in software engineering principles, while my hands-on experience allows me to tackle real-world challenges and contribute to cutting-edge projects. I am committed to continuous learning and growth in the field, striving to stay at the forefront of technology and deliver high-quality, effective solutions.
 </div>
 
-
-## 💻 My Skills
+## 💻 Skills
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,nodejs,react,html,css,styledcomponents,sass,tailwind,bootstrap,git,yarn" />
