@@ -3,8 +3,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="220px" max-width="220px" width="220px" align="right">
 
 ## 🚀 Grateful for coming this far and eager to go further! 
-Exploring new technologies and developing solutions. Software Engineering student at PUC Minas.
- 
+Passionate about exploring new technologies and developing innovative solutions. As a Software Engineering student at PUC Minas, I am deeply engaged in understanding the latest advancements in software development and applying this knowledge to create impactful solutions. My academic journey equips me with a strong foundation in software engineering principles, while my hands-on experience allows me to tackle real-world challenges and contribute to cutting-edge projects. I am committed to continuous learning and growth in the field, striving to stay at the forefront of technology and deliver high-quality, effective solutions.
+
 ## 💻 My Skills
 
   <a href="https://skillicons.dev">
