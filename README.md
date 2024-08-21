@@ -18,6 +18,6 @@ Exploring technologies and developing innovative solutions. As a Software Engine
     <img src="http://github-readme-streak-stats.herokuapp.com?user=pedrodif&theme=dark&hide_border=true&background=000000&fire=7E3ACE&ring=7E3ACE&currStreakLabel=FFFFFF)](https://git.io/streak-stats" width="49.75%"/>
 </div>
 
-## 🚀 Grateful for coming this far and eager to go further! 
+### 🚀 Grateful for coming this far and eager to go further! 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer"/>
