@@ -11,7 +11,8 @@ Exploring technologies and developing innovative solutions. As a Software Engine
     <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,nodejs,react,html,css,styledcomponents,sass,tailwind,bootstrap,git,yarn" />
   </a>
 
-  <div style="marginTop: 2px" align="center">
+#
+  <div align="center">
     <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Software Developer">
   </div>
 
