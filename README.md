@@ -5,17 +5,15 @@
 Exploring technologies and developing innovative solutions. As a Software Engineering student at PUC Minas, I am deeply engaged in understanding the latest advancements in software development and applying this knowledge to create impactful solutions. My academic journey equips me with a foundation in software engineering principles, while my hands-on experience allows me to tackle real-world challenges and contribute to cutting-edge projects. I am committed to continuous learning and growth in the field, striving to stay at the forefront of tech.
 </div>
 
+  <div align="center">
+    <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Software Developer">
+  </div>
+
 ## 💻 Skills
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,nodejs,react,html,css,styledcomponents,sass,tailwind,bootstrap,git,yarn" />
   </a>
-
- <div></div>
- 
-  <div align="center">
-    <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Software Developer">
-  </div>
 
 ## 📊🚀 Statistics | Grateful for coming this far and eager to go further! 
 
