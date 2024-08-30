@@ -19,3 +19,19 @@ Exploring technologies and developing innovative solutions. As a Software Engine
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer"/>
+
+<style>
+  @media (max-width: 626px) {
+    div[align="justify"] {
+      display: flex;
+      flex-flow: column;
+      align-items: center;
+      text-align: justify;
+    }
+
+    img[align="right"] {
+      align-self: center;
+      margin-bottom: 20px;
+    }
+  }
+</style>
