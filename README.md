@@ -11,6 +11,8 @@ Exploring technologies and developing innovative solutions. As a Software Engine
     <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,nodejs,react,html,css,styledcomponents,sass,tailwind,bootstrap,git,yarn" />
   </a>
 
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="284px" max-width="284px" width="284px"             align="right">
+
 ## 📊🚀 Statistics | Grateful for coming this far and eager to go further! 
 
 <div width="100%">
