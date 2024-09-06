@@ -7,7 +7,7 @@ Exploring technologies and developing innovative solutions. As a Software Engine
 ## 💻💫 Skills
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,nodejs,react,html,css,styledcomponents,sass,tailwind,bootstrap,git,yarn,npm,maven" />
+    <img src="https://skillicons.dev/icons?i=java,springboot,c,cpp,js,ts,nodejs,react,html,css,styledcomponents,sass,tailwind,bootstrap,git,yarn,npm,maven" />
   </a>
 
 ## 📊🚀 Statistics | Grateful for coming this far and eager to go further! 
