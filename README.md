@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=140&section=header&text=🖖Hello,%20I'm%20Pedro%20Ferreira!&fontSize=40&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
 
 <div align="justify">
-Exploring technologies and developing innovative solutions. As a Software Engineering student at PUC Minas, I am deeply engaged in understanding the latest advancements in software development and applying this knowledge to create impactful solutions. My academic journey equips me with a foundation in software engineering principles, while my hands-on experience allows me to tackle real-world challenges and contribute to cutting-edge projects. I am committed to continuous learning and growth in the field, striving to stay at the forefront of tech.
+As a Software Engineering student at PUC Minas, I am passionate about exploring emerging technologies and developing innovative solutions. My academic journey provides a strong foundation in software engineering principles, while practical experience allows me to tackle real-world challenges and contribute to forward-thinking projects. I am dedicated to continuous learning, staying updated with the latest advancements, and applying my knowledge to create impactful solutions that drive progress in the tech industry.
 </div>
 
 ## 💻💫 Skills
