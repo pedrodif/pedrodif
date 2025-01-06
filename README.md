@@ -13,7 +13,7 @@ As a Software Engineering student at PUC Minas, I am passionate about exploring 
 ## 📊🚀 Statistics | Grateful for coming this far and eager to go further! 
 
 <div width="100%">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodif&layout=compact&langs_count=10&theme=dark" width="49.75%"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodif&layout=compact&langs_count=10&theme=dark" width="40%"/>
   <a href="https://github.com/pedrodif">
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrodif&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,0D1117"/>
   </a>
