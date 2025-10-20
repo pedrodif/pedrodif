@@ -7,7 +7,7 @@ As a Software Engineering student at PUC Minas, I am passionate about exploring 
 ## 💻💫 Skills
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,c,cpp,js,ts,nodejs,react,html,css,styledcomponents,sass,tailwind,bootstrap,yarn,npm,maven,git,docker" />
+    <img src="https://skillicons.dev/icons?i=java,spring,c,cpp,js,ts,nodejs,react,html,css,styledcomponents,sass,tailwind,bootstrap,yarn,npm,pnpm,maven,git,docker" />
   </a>
 
 ## 📊🚀 Statistics | Grateful for coming this far and eager to go further! 
