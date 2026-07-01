@@ -10,13 +10,4 @@ As a Software Engineering student at PUC Minas, I am passionate about exploring 
     <img src="https://skillicons.dev/icons?i=java,spring,c,cpp,js,ts,jest,nodejs,react,redux,html,css,styledcomponents,sass,tailwind,bootstrap,yarn,npm,pnpm,maven,gradle,git,docker" />
   </a>
 
-## 📊🚀 Statistics | Grateful for coming this far and eager to go further! 
-
-<div width="100%">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodif&layout=compact&langs_count=10&theme=dark" width="35%"/>
-  <a href="https://github.com/pedrodif">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrodif&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,0D1117"/>
-  </a>
-</div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer"/>
