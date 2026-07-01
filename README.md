@@ -7,7 +7,7 @@ As a software engineer, I am passionate about exploring emerging technologies an
 ## 💻 Stack
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,ts,nodejs,vuejs,nuxt,react,next,jest,styledcomponents,sass,tailwind,yarn,npm,pnpm,bun,deno,maven,gradle,git,postgresql,redis,docker" />
+    <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,ts,nodejs,vuejs,nuxt,react,next,jest,styledcomponents,sass,tailwind,yarn,npm,pnpm,bun,deno,maven,gradle,git,postgresql,redis,rabbitmq,docker" />
   </a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer"/>
